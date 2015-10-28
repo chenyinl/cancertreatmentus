@@ -1,12 +1,12 @@
 <?php
 $reviewArray=array(
-    array(
+    /*array(
         "lang"=>"chinese",
         "date" =>"2014",
         "author" => "郭纯真 - 腸胃科醫師",
         "title"=>"",
         "content"=>'<img src = "images/cancerLetter/typed1.png"><img src = "images/cancerLetter/typed2.png"><img src = "images/cancerLetter/typed3.png"><img src = "images/cancerLetter/typed4.png">'
-    ),
+    ),*/
     array(
         "lang"=> "chinese",
         "date" => "2013",
