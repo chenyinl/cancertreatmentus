@@ -44,10 +44,7 @@ printHeader();
 <h2>At Oeyama-Moto Cancer Research Foundation, we care for people with all types of cancer and allied diseases.</h2>
   
 </div>
-<div style="text-align:center;"> 
-<img width="720px" src="images/cancerLetter/letter080914.jpg">
-<img width="720px" src="images/cancerLetter/letter082914.jpg">
-</div>
+
 
 <div style="text-align:center;"><img src="images/case studies.png" width="735" height="3866" alt="casestudy"><br class="clear" />
 </div>
