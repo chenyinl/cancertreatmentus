@@ -52,7 +52,7 @@ printHeader();
 <p><strong><img src="images/oncology.jpg" width="274" height="277" alt="treatment"></strong><br/>
 <p><strong>Allesgen enzyme includes:</strong> <br/>
 Ananase <br/>
-Comosain
+Comosain <br/>
 Inflamen <br/>
 Extranase <br/>
 Traumanase <br/>
