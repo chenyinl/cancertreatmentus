@@ -281,7 +281,6 @@ Approximately  more than 102,000 new cases of colon cancer are diagnosed this ye
 					<p><span id="result_box2" lang="zh-CN">草药，保健品和维生素</span></p>
 					  <p>Ananase<br/>
 					  Comosain<br/>
-					  Comosain<br/>
 					  Extranase<br/>
 					  Formosalin<br/>
 					  Inflamen<br/>

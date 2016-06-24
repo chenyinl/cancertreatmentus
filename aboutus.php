@@ -42,7 +42,7 @@ printHeader();
 
 <p>TC; (210.3+_30.2mg/dl ), TRG; (165.5 +_ 28.3mg/dl), HDL; (43.3 +_ 22.2mg/dl), SGOT ; (34.7+_6.2 u/l),  SGPT; (63.3+_5.6 u/l), GGTP; (7.2+_ 2.1 u/l) WBC; (6.7 +_ 2.8 k/ul), Hb; (12.3+_ 2.1gm/dl)</p>
 
-<p><em><strong>Therefore, we concluded that the treatment of these various represented types of cancers for prolonged periods with Comosain (COMOSAIN ) are effective and without side effects.</strong></em></p>
+<p><em><strong>Therefore, we concluded that the treatment of these various represented types of cancers for prolonged periods with Comosain are effective and without side effects.</strong></em></p>
 
 </div>
 
@@ -52,8 +52,7 @@ printHeader();
 <p><strong><img src="images/oncology.jpg" width="274" height="277" alt="treatment"></strong><br/>
 <p><strong>Allesgen enzyme includes:</strong> <br/>
 Ananase <br/>
-Comosain (Comosalin) <br/>
-Comosain (Bromelinases) <br/>
+Comosain
 Inflamen <br/>
 Extranase <br/>
 Traumanase <br/>
