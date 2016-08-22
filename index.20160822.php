@@ -45,8 +45,9 @@ printHeader();
   
 </div>
 
-<?php include "ctscan.php";?>
 
+<div style="text-align:center;"><img src="images/case studies.png" width="735" height="3866" alt="casestudy"><br class="clear" />
+</div>
 <?php printFooter();?>
 </div>
 <?php printCopyright();?>

@@ -44,8 +44,4 @@
 <br/><figure><img class="size-medium wp-image-8207994" src="images/CTScan/patientE.jpg" alt="前列腺癌轉移，服用4個月癌消失。（廖學時醫學博士提供）" width="450" height="242" /><figcaption class="wp-caption-text">前列腺癌轉移，服用4個月癌消失。（廖學時醫學博士提供）</figcaption></figure>
 <p>您有任何問題或需要購買，請聯繫廖博士!</p>
 <p>沒有代理商 謹防假冒</p>
-<p>微信：<a href="http://weixin.qq.com/r/4P17YxvEpEbbrV8A96jy">Allesgencure</a></p>
-<p><img class=" wp-image-8207967" src="images/wechatQRCode.png" alt="二維碼 " width="219" height="218" /><br/>二維碼</figcaption></p>
-
-
 </div>

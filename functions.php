@@ -7,7 +7,7 @@ function printHeader(){
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="Oeyama-Moto Cancer Treatment Center & Research Foundation, Allesgen Alternative Treatment, Cancer Treatment" content="" />
-		<title>Oeyama-moto Cancer Treatment Center & Research Foundation</title>
+		<title>Oeyama-Moto Cancer Treatment Center & Research Foundation</title>
 		<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
         <script src="nocopy.js"></script>
@@ -31,7 +31,7 @@ function printMenu(){
 	<div id="nav">
 		<h1>
 			
-				<a href="index.php">Oeyama-moto Cancer Treatment Center</a>
+				<a href="index.php">Oeyama Moto Cancer Research Foundation</a>
 			
 		</h1>
 		<br class="clear" />
@@ -60,28 +60,29 @@ function printFooter(){
 ?>
 <div id="footer">
 	<div id="footerContent">
-		<h3>E-mail</h3>
+		<h3>Digital Contact</h3>
 		<div class="form">
-		  <p><a href="mailto:kingliao1@yahoo.com" target="_blank">kingliao1@yahoo.com</a></p>
-		  <p><a href="mailto:info@cancertreatmentus.org" target="_blank">info@cancertreatmentus.org</a></p>
+		  <p>E-mail <a href="mailto:kingliao1@yahoo.com" target="_blank">kingliao1@yahoo.com</a><br/>
+          WeChat 微信 <a href="http://weixin.qq.com/r/4P17YxvEpEbbrV8A96jy">Allesgencure</a><br/>
+          <a href="images/wechatQRCode.png"><img class=" wp-image-8207967" src="images/wechatQRCode.png" alt="二維碼 " width="64" /></a>
+          </p>
 		</div>
+       
 	</div>
 	<div id="footerSidebar1">
-		<h3>Oeyama-moto Cancer<br/>Treatment Center (USA)</h3>
-		
+		<h3>Oeyama Moto Cancer<br/>Research Foundation (USA)</h3>
         <p>
         3106 E. Garvey Avenue South<br/>
         West Covina, California 91791</br>
         U.S.A.
         </p>
-</div>
+    </div>
 	<div id="footerSidebar2">
-	  <h3>	Phone</h3>
-		<ul class="contactinfo">
+	  <h3>Phone</h3>
 		  <p>Tel: (626) 388-5407<br/>
 		    or (626) 388-7524 <br/>
-		    Fax: (626) 967-2929		  </p>
-		</ul>
+		    Fax: (626) 967-2929
+        </p>
 	</div>
 	<br class="clear" />
 </div>
