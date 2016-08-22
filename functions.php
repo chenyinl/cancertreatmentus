@@ -92,7 +92,7 @@ function printFooter(){
 function printCopyright(){
 ?>
 <div id="copyright">
-  <p>©2012 Oeyama-Moto Cancer Treatment Center &amp; Research Foundation. All rights reserved. <br/> The material on this site is for informational purposes  only, and is not a substitute for medical advice,
+  <p>©2012 Oeyama Moto Cancer Research Foundation. All rights reserved. <br/> The material on this site is for informational purposes  only, and is not a substitute for medical advice,
   <br/>diagnosis or treatment  provided by a qualified health care provider.</p>
 </div>
 <?php
