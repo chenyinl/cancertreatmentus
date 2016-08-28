@@ -1,0 +1,10 @@
+/*
+For print only
+*/
+body{}
+.no_print_image{
+    display: none;
+}
+#heroImage{
+    width:1080px;
+}

@@ -9,6 +9,7 @@ function printHeader(){
 		<meta name="Oeyama-Moto Cancer Treatment Center & Research Foundation, Allesgen Alternative Treatment, Cancer Treatment" content="" />
 		<title>Oeyama-Moto Cancer Treatment Center & Research Foundation</title>
 		<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
         <script src="nocopy.js"></script>
         
@@ -58,33 +59,47 @@ function printBanner(){
 }
 function printFooter(){
 ?>
-<div id="footer">
-	<div id="footerContent">
-		<h3>Digital Contact</h3>
-		<div class="form">
-		  <p>E-mail <a href="mailto:kingliao1@yahoo.com" target="_blank">kingliao1@yahoo.com</a><br/>
-          WeChat 微信 <a href="http://weixin.qq.com/r/4P17YxvEpEbbrV8A96jy">Allesgencure</a><br/>
-          <a href="images/wechatQRCode.png"><img class=" wp-image-8207967" src="images/wechatQRCode.png" alt="二維碼 " width="64" /></a>
-          </p>
-		</div>
-       
-	</div>
-	<div id="footerSidebar1">
-		<h3>Oeyama Moto Cancer<br/>Research Foundation (USA)</h3>
-        <p>
-        3106 E. Garvey Avenue South<br/>
-        West Covina, California 91791</br>
-        U.S.A.
-        </p>
-    </div>
-	<div id="footerSidebar2">
-	  <h3>Phone</h3>
-		  <p>Tel: (626) 388-5407<br/>
-		    or (626) 388-7524 <br/>
-		    Fax: (626) 967-2929
-        </p>
-	</div>
-	<br class="clear" />
+<div id='footer'>
+    <h2>Oeyama Moto Cancer Research Foundation (USA)</h2>
+  <div class="items">
+  <div class="item"><img width='25px', height='25px'
+            src='/images/contact/GoogleMap_Icon.png'>
+        <b>Address</b><br/> 3106 E. Garvey Ave South<br/>
+        West Covina, CA 91791</br>
+        USA <br/>
+        
+        <a href='https://goo.gl/maps/TNgfha1KZF52'>[Google Map]</a>
+        
+  </div>
+  <div class="item"><img width='25px', height='25px'
+            src='/images/contact/Phone_Icon.png'>
+      <b>Phone</b><br/>(626) 388-5407<br/>(626) 388-7524<br/>
+  <b><img width='25px', height='25px'
+        src='/images/contact/Fax_Icon.png'>
+    Fax</b><br/>(626) 967-2929
+  </div>
+  
+  <div class="item">
+      <img width='25px', height='25px'
+            src='/images/contact/Email_Icon.png'>
+      <b>Email</b><br/>
+    <a href="mailto:kingliao1@yahoo.com" 
+        target="_blank">kingliao1@yahoo.com</a>
+  </div>
+  
+  <div class="item"><img src='/images/contact/LINE_Icon.png'  
+    width='25px', height='25px'
+  title='LINE'>
+  <b>LINE</b><br/>judybenedict <a href='/images/contact/judybenedict_line_QR.png'>[QR]</a>
+  <br/>
+
+      <img src='/images/contact/WECHAT_Icon.png'  
+    width='25px', height='25px'
+  title='WeChat'>
+  <b>WeChat</b><br/><a href="http://weixin.qq.com/r/4P17YxvEpEbbrV8A96jy">Allesgencure</a>
+  <a href='images/contact/wechatQRCode.png'>[QR]</a>
+  </div>
+</div>
 </div>
 <?php
 }

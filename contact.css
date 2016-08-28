@@ -1,0 +1,9 @@
+.items {
+	overflow: hidden; /* simple clearfix */
+}
+.items .item {
+	float: left;
+	width: 25%;
+  box-sizing: border-box;
+  padding: 10px;
+}
