@@ -39,6 +39,11 @@
     margin: auto !important;
     width: 75%;
 }
+
+.fdaRed{
+    color: red;
+}
+
 td{
     padding: 5px;
 }

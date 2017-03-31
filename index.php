@@ -28,11 +28,11 @@ printHeader();
       
       <h3>FDA Submission 食品藥品管理局審查</h3>
       <div id="fdaLetters">
-        <p>2014年5月9日<br/>美國食品藥品監督管理局 經審查我們的提交<br/>並決定第二期臨床實驗可以開始
+        <p><b>2014年5月9日<br/>美國食品藥品監督管理局 經審查我們的提交<br/>並決定第二期臨床實驗可以開始</b>
         </p>
         <img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">
-        <img  class="fdaImage" src="/images/removeClinicalHoldPage2.jpg">
-        <p>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示<br/>第二期臨床試驗已完成。
+        <p><b>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示
+        <br/>第二期臨床試驗已完成。<span class="fdaRed">83 個人體實驗全部都完成。無副作用。</span></b>
         </p>
         <img  class="fdaImage" src="/images/clinicaltrials.jpg">
       </div>
