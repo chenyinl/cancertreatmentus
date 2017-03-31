@@ -9,8 +9,9 @@ printHeader();
 
 <div id="main">
 <img id="heroImage" src="images/articlenews.original.jpg"/>
+    
 <div id="content">
-
+    
     <div id="box1">
       
       <h3>Our Mission 任務</h3>
@@ -25,6 +26,17 @@ printHeader();
       <h3>About 關於</h3>
       <p>Oeyama-Moto Cancer Research Foundation was formed by the late Dr. Wada Tai Hei and his sons, now led by Dr. Benedict Liao also known as Dr. Wada Masao II. We specialize in every field of medicine, including surgical oncology, urology, gynecologic oncology and radiation oncology.</p>
       
+      <h3>FDA Submission 食品藥品管理局審查</h3>
+      <div id="fdaLetters">
+        <p>2014年5月9日<br/>美國食品藥品監督管理局 經審查我們的提交<br/>並決定第二期臨床實驗可以開始
+        </p>
+        <img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">
+        <img  class="fdaImage" src="/images/removeClinicalHoldPage2.jpg">
+        <p>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示<br/>第二期臨床試驗已完成。
+        </p>
+        <img  class="fdaImage" src="/images/clinicaltrials.jpg">
+      </div>
+      
       <h3>Dr. Benedict Liao's experience &amp; training</h3>
       <ul>
           <li>Gynecology Oncology Fellow, <br/>Temple University Hospital</li>               
@@ -34,6 +46,8 @@ printHeader();
           <li>Chairman, Department of Obstetrics and Gynecology, and Section Chief of Gynecologic Oncology, <br/>Chang-Gung Memorial Hospital</li>                 
           <li>Associate Professor &amp; Director of Gynecological Oncologic Division,  <br/>LA County King/Drew Medical School</li>
       </ul>
+      <br/>
+      
     </div>
    
     

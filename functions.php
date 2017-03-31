@@ -7,7 +7,7 @@ function printHeader(){
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="Oeyama-Moto Cancer Treatment Center & Research Foundation, Allesgen Alternative Treatment, Cancer Treatment" content="" />
-		<title>Oeyama-Moto Cancer Treatment Center & Research Foundation</title>
+		<title>Oeyama-Moto Cancer Research Foundation</title>
 		<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
@@ -68,7 +68,7 @@ function printFooter(){
         West Covina, CA 91791</br>
         USA <br/>
         
-        <a href='https://goo.gl/maps/TNgfha1KZF52'>[Google Map]</a>
+        <a href='https://goo.gl/maps/TNgfha1KZF52'>[Google Map 按這裡]</a>
         
   </div>
   <div class="item"><img width='25px', height='25px'
@@ -90,14 +90,14 @@ function printFooter(){
   <div class="item"><img src='/images/contact/LINE_Icon.png'  
     width='25px', height='25px'
   title='LINE'>
-  <b>LINE</b><br/>judybenedict <a href='/images/contact/judybenedict_line_QR.png'>[QR]</a>
-  <br/>
+  <b>LINE</b><br/>judybenedict<br/><a href='/images/contact/judybenedict_line_QR.png'>[QR 二維碼按這裡]</a>
+  <br/><br/>
 
       <img src='/images/contact/WECHAT_Icon.png'  
     width='25px', height='25px'
   title='WeChat'>
   <b>WeChat</b><br/><a href="http://weixin.qq.com/r/4P17YxvEpEbbrV8A96jy">Allesgencure</a>
-  <a href='images/contact/wechatQRCode.png'>[QR]</a>
+  <a href='images/contact/wechatQRCode.png'><br/>[QR 二維碼按這裡]</a>
   </div>
 </div>
 </div>
