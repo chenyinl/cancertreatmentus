@@ -36,7 +36,7 @@ printHeader();
         </p>
         <img  class="fdaImage" src="/images/clinicaltrials.jpg">
       </div>
-      
+      */?>
       <h3>Dr. Benedict Liao's experience &amp; training</h3>
       <ul>
           <li>Gynecology Oncology Fellow, <br/>Temple University Hospital</li>               
@@ -47,7 +47,7 @@ printHeader();
           <li>Associate Professor &amp; Director of Gynecological Oncologic Division,  <br/>LA County King/Drew Medical School</li>
       </ul>
       <br/>
-      */?>
+      
     </div>
    
     
