@@ -40,6 +40,14 @@ $reviewArray=array(
         "content"=>"我是一個美國大學裡的生化學教授，有一天，住在大陸的父親突然打電話來找我，說他在醫院裡，醫生檢查他的肺部，發現他的肺臟長了一個七公分的腫瘤，是惡性的肺癌，他不想讓我擔心，已做化療一年多了，但是癌細胞卻還在繼續長大，我妹妹剛好在報紙上看到廖博士有關治療癌症的新報導，與我分享後，我也覺得此種免疫治療方式有效，於是坐飛機到洛杉磯與廖博士詳談父親的病情，他的研究理論很有說服力，所以我決定先買兩瓶回大陸讓我爸爸試試，吃了一個月後，感覺有些改善，呼吸較為順暢，比較不會氣喘，而且食慾也變好，我又再買４瓶讓爸爸服用，大約吃了四個月左右，我帶他去醫院檢查，發現肺癌腫瘤已經不見了，醫生也不敢相信，我覺得廖醫師新發明的治療方式，將會是以後治療癌症的新趨勢，不僅無副作用，病人也不用再忍受化療或電療的痛苦。"
     ),
     array(
+        "lang"=> "english",
+        "date" => "2013",
+        "author" => "Dr. Wang",
+        "title"=> "Lung Cancer",
+        "content"=>"I am a professor in biochemistry. It was a shock when my father called to inform me his 7 cm lung cancer tumor. The one year Chemo treatment led to no avail.
+        My sister happened to read a news of Dr. Liao’s product and treatment. I flu to Los Angeles to consult Dr Liao about my father’s case. After taking two bottles of Allesgen, my father’s breathing was improved. Appetite was better. The continuation of taking four bottles around 4 months stunned my father’s doctor of the cleared cancer. I believe Dr. Liao’s invention will be a new trend of cancer treatment. There is so side effect nor suffering like chemo or radiation treatment."
+    ),
+    array(
         "lang"=>"chinese",
         "date" =>"2012",
         "author" => "陳先生",
@@ -81,6 +89,14 @@ $reviewArray=array(
         剛好在報紙上看到廖醫師的廣告,是有關抗癌症的藥,尤其上面說對於末期的癌症也有效果,阿姨把她的病例電郵給我, 我也轉發給醫生請他幫忙看報告, 醫生告訴我藥對任何的癌症有都效買,於是我幫阿姨買了兩瓶藥寄回香港讓她吃, 一個月後,又買了三瓶藥寄回香港,後來阿姨親自到美國來看廖醫師, 又買了兩瓶藥回去, 廖醫師建議阿姨還是在香港醫院做詳細檢查, 做完檢查發現,舌頭擴散到舌根的癌細胞全部死亡了,轉移到骨頭的癌細胞也消失了,我阿姨及我們都非常高興, 非常的感謝廖醫師的幫助, 他發明的藥真的可以幫助很多癌症末期的病人, 請有癌症的病患不用再猶豫了.廖醫師的藥是癌症末期病人唯一的希望。"
     ),
     array(
+        "lang"=>"english",
+        "date" =>"2012",
+        "author" => "Mrs. Wang. Hong Kong",
+        "title"=>"Tongue Cancer",
+        "content"=>"When cancer was found on my tongue, doctor decided that my tongue had to be removed. My family mailed two bottles of Dr. Liao’s invention to me. Followed by five bottles of Allesgen, my cancer cells were all cleared on the tongue and bone. The whole family is grateful."
+    ),
+    
+    array(
         "lang"=>"chinese",
         "date" =>"6/12/2013",
         "author" => "Lisah C.",
@@ -107,6 +123,16 @@ $reviewArray=array(
         三個月後, 去醫院照了CT SCAN, 發現擴散到卵巢及骨頭的癌細胞已經減小和變少了. 後來繼續吃了約6瓶Allesgen, 再去檢查, 沒想到在CT SCAN上已經完全看不到任何癌細胞了, 我自己的醫生也非常驚訝, 因為之前他告訴我, 我的病已經沒辦法救了! 沒想到過了6~7個月的Allesgen治療, 居然讓我能夠繼續活下去, 且病也治好了。
         我真的非常感激廖醫師的幫忙, 把我從鬼門關前拉回來, 我無法想像我如果活不了, 我的先生及八歲的小孩該怎麼過日子!真的謝謝他, 我也有介紹幾個人給廖醫師, 請他幫忙治療, 也都有成功。"
     ),
+    array(
+        "lang"=>"english",
+        "date" =>"2013",
+        "author" => "Mrs. Tseng. Los Angeles",
+        "title"=>"Ovary Cancer",
+        "content"=>"I had ovary cancer for two years. It recurred after many radiation and chemo therapies.
+        Three months after taking Dr. Liao’s Allesgen, tumors in ovary and bones were shrinked. After six months of Allesgen, it was a surprise to my doctor when call cancer cells were gone.
+        I can not imagine how can my husband and my 8-year old live without me. I am grateful and have introduced friends to Dr. Liao who leads them back to health. Dr. Liao pulled me out the death sentence."
+    ),
+    
     array(
         "lang"=>"chinese",
         "date" =>"2014/1/2",
