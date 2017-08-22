@@ -3,7 +3,7 @@ include("functions.php");
 printHeader();
 ?>
 <body>
-	<script src="warning.js"></script>
+	<?php /*<script src="warning.js"></script>*/?>
 <div id="outer"><?php printMenu();?>
 <?php printBanner();?>
 
