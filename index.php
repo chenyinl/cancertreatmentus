@@ -13,8 +13,12 @@ printHeader();
 <div id="content">
     
     <div id="box1">
-      <?php /* removed as 5/6/2017 
-      <h3>FDA Submission 食品藥品管理局審查</h3>
+      
+      <h3 style="color:red;font-weight: bold;font-size: 1.5em">FDA Submission 美國藥品管理局審查</h3>
+      <p style="color:red;">2015年1月24曰通過完成美國藥物管理局FDA的第二階段的人體試驗<br/>
+      Passed US Food and Drug Administration (FDA) Phase II human testing on January 24th, 2015.
+      </p>
+      <h3>- FDA Submission 食品藥品管理局審查 -</h3>
       <div id="fdaLetters">
         <p><b>2014年5月9日<br/>美國食品藥品監督管理局 經審查我們的提交<br/>並決定第二期臨床實驗可以開始</b>
         </p>
@@ -24,11 +28,6 @@ printHeader();
         </p>
         <img  class="fdaImage" src="/images/clinicaltrials.jpg">
       </div>
-      */?>
-      <h3 style="color:red;">FDA Submission 食品藥品管理局審查</h3>
-      <p style="color:red;">2015年1月24曰通過完成美國藥物管理局FDA的第二階段的人體試驗<br/>
-      Passed US Food and Drug Administration (FDA) Phase II human testing on January 24th, 2015.
-      </p>
       <h3>Our Mission 任務</h3>
       <p>To be the trusted leader in quality health care that is personalized, compassionate, and innovative. We stand for empowerment, integrity, respect, allegiality, and vitality. We commit to authenticity and excellence in clinical health care. You can count on us to be fully present in the delivery of uncompromising health care.</p>
 
