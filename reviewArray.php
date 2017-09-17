@@ -7,7 +7,19 @@ $reviewArray=array(
         "title"=>"",
         "content"=>'<img src = "images/cancerLetter/typed1.png"><img src = "images/cancerLetter/typed2.png"><img src = "images/cancerLetter/typed3.png"><img src = "images/cancerLetter/typed4.png">'
     ),*/
-    
+    array(
+        "lang"=>"chinese",
+        "date" =>"9/2017",
+        "author" => "西雅圖 G小姐",
+        "title"=>"腸癌/胰臟癌",
+        "content"=>'G小姐的母親被診斷出有腸癌與胰臟癌。因為母親年紀已大， 醫師不建議使用化療。G小姐從 2016 開始，陸陸續續購買了數瓶 Allesgen 給母親服用。 一年多了，G小姐母親的病情目前已經接近痊癒。'
+    ),array(
+        "lang"=>"chinese",
+        "date" =>"9/2017",
+        "author" => "新疆 匿名",
+        "title"=>"淋巴癌晚期",
+        "content"=>'去年中，我妹兒子身體忽然很累，四肢無力。身上長出很多粒突的瘤，很害怕。去醫院看醫生， 醫生詳細檢查，發現他是淋巴癌晚期，只有三個月， 最多半年可活， 很傷心。全家無助非常痛苦。後來朋友介紹網站看到廖博士的抗癌藥，決定買了六瓶。服用完後，在兩個月前去醫院檢查，完全看不到本來很多的突出惡性腫瘤，血液也正常。醫院醫生都不敢相信。服藥到現在已經一年了。真感謝廖博士。我們也想多買幾瓶， 讓他再多服用一段時間，怕複發，要再鞏固一下。'
+    ),
     array(
         "lang"=>"chinese",
         "date" =>"2016",
