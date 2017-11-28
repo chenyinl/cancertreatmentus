@@ -9,7 +9,7 @@ printHeader();
 
 <div id="main">
 <img id="heroImage" src="images/articlenews.original.jpg"/>
-    
+<img id="heroImage" src="images/callFromChina.jpg"/>   
 <div id="content">
     
     <div id="box1">
