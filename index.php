@@ -50,7 +50,12 @@ printHeader();
           <li>Associate Professor &amp; Director of Gynecological Oncologic Division,  <br/>LA County King/Drew Medical School</li>
       </ul>
       <br/>
-      
+      <image src="images/cert/DrLiaoCert_ABOG.JPG" width="550" alt="American Board of Obstetrics and Gynecology" title="American Board of Obstetrics and Gynecology">
+	  <image src="images/cert/DrLiaoCert_Fellow.JPG" width="550" alt="Temple University Hospital" title="Temple University Hospital">
+	  <image src="images/cert/DrLiaoCert_Taipei1en.PNG" width="550" alt="Tapiei Medical University" title="Tapiei Medical University">	
+	  <image src="images/cert/DrLiaoCert_Taipei1zh.PNG" width="550" alt="Tapiei Medical University" title="Tapiei Medical University">
+	  <image src="images/cert/DrLiaoCertWAGO.JPG" width="550" alt="Western Association of Gynecologic Oncologists" title="Western Association of Gynecologic Oncologists"> 
+	  <image src="images/cert/DrLiaoDonation.JPG" width="550" alt="Donation to Taipei Medical Unviersity" title="Donation to Taipei Medical Unviersity">    
     </div>
    
     
