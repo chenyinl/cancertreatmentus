@@ -15,6 +15,7 @@ printHeader();
 			<img src="images/office/officeFront.JPG" width="550" alt="Oeyama-moto Office">
             <img src="images/office/officeExterior.JPG" width="550" alt="Oeyama-moto Office side view">
             <p>Oeyama-Moto West Covina Office</p>
+            <img src="images/office/officeLobby.JPG" width="550" alt="Waiting Room">
             <img src="images/office/waitingRoom1.JPG" width="550" alt="Waiting Room">
             <img src="images/office/waitingRoom2.JPG" width="550" alt="Waiting Room">
             <img src="images/office/waitingRoom3.JPG" width="550" alt="Waiting Room">
