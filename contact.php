@@ -24,7 +24,7 @@ printHeader();
 	<p>If you have questions about your order, need more information on Allesgen, or have feedback to share, please contact us at:
 	</p>
 	<p>
-	Email: <a href="mailto:info@cancertreatmentus.org"><b>info@cancertreatmentus.org</b></a> or <a href="mailto:kingliao1@yahoo.com"><b>kingliao1@yahoo.com</b></a>
+	Email: <a href="mailto:kingliao1@yahoo.com"><b>kingliao1@yahoo.com</b></a> or <a href="mailto:info@cancertreatmentus.org"><b>info@cancertreatmentus.org</b></a>
 	</br>
 	</br>
  	Please include patient's full name and contact information. We will promptly respond within 12 hours.

@@ -8,7 +8,15 @@
 <p>廖學時醫學博士憑藉最新發明的無副作用「免疫學標靶治癌法」抗癌產品「Allesgen」，於2013、2014、2015和2016年四度獲諾貝爾獎醫學與生理學獎提名。產品在美國及其它100多個國家或地區獲得國際專利。</p>
 <h3 style="color:black">目前癌友的最好產品之一</h3>
 <p>「Allesgen」是用九種不同的植物及果實高度濃縮提煉而成，是廖學時博士和其九位醫師團隊花了十餘年的時間研發出來的天然酵素群。它不只增強身體的免疫系統，且能摧毀癌細胞，而沒有副作用，是目前癌友們的最好產品之一。可用於數十種癌症：肺癌、肝癌、乳癌、腸癌、胃癌、胰臟癌、腎臟癌、鼻咽癌、甲狀腺癌、卵巢癌、子宮頸癌、陰道癌、子宮體癌、膀胱癌、腦癌、攝護腺癌、皮膚黑色素癌、血癌及淋巴癌等。僅舉幾例如下：
-<br/><img class="size-medium wp-image-8207937" src="images/CTScan/patientD.jpg" alt="膽囊癌轉移，治療前5-6cm，治療後癌消失。（廖學時醫學博士提供） " width="450" height="586" /><figcaption class="wp-caption-text">膽囊癌轉移，治療前5-6cm，服用後癌消失。（廖學時醫學博士提供）</figcaption></p>
+
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" alt="癌症末期 全身擴散 治療三個月後" width="550"  /><figcaption class="wp-caption-text">癌症末期 全身擴散 治療三個月後</figcaption></p>
+
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancerXray.jpg" alt="肺癌末期病人吃藥治療前4/21/2014 肺癌末期病人吃藥治療後 6/7/2014" width="550"  /><figcaption class="wp-caption-text">肺癌末期病人吃藥治療前4/21/2014 肺癌末期病人吃藥治療後 6/7/2014</figcaption></p>
+
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/liverCancer.jpg" alt="肝癌，肺和骨轉移。兩個月，三個月，七個月的治療比較。7個月治療腫瘤液化消失。" width="450" /><figcaption class="wp-caption-text">癌肝癌，肺和骨轉移。兩個月，三個月，七個月的治療比較。7個月治療腫瘤液化消失。</figcaption></p>
+
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/GallbalderCancer.jpg" alt="膽囊癌， 肺及肺轉移。 治療前後。" width="550" /><figcaption class="wp-caption-text">膽囊癌， 肺及肺轉移。 治療前後。治療前5-6cm，治療後癌消失。（廖學時醫學博士提供）</figcaption></p>
+
 <h3 style="color:black">肺癌腫瘤不見了</h3>
 <p>王先生是一個美國大學裡的生化學教授，有一天，王先生住在大陸的父親突然打電話來說在醫院裡，他的肺臟長了一個七公分的腫瘤，是惡性的肺癌，他不想讓王先生擔心，已做化療一年多了，但是癌細胞卻還在繼續長大。王先生妹妹剛好在報紙上看到廖博士有關治療癌症的新報導，於是王先生坐飛機到洛杉磯與廖博士詳談父親的病情，之後王先生決定先買兩瓶回大陸讓爸爸試試。</p>
 <p>吃了一個月後，王先生父親感覺有些改善，呼吸較為順暢，比較不會氣喘，而且食慾也變好，王先生又再買４瓶讓爸爸服用，大約吃了4個月左右。去醫院檢查，發現肺癌腫瘤已經不見了。醫生也不敢相信，王先生覺得廖醫師的新發明，將會是以後治療癌症的新趨勢，不僅無副作用，病人也不用再忍受化療或電療的痛苦。
