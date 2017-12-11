@@ -7,7 +7,7 @@ function printHeader(){
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="Oeyama-Moto Cancer Treatment Center & Research Foundation, Allesgen Alternative Treatment, Cancer Treatment" content="" />
-		<title>Oeyama-Moto Cancer Research Foundation</title>
+		<title>Oeyama-Moto Cancer Treatment Center & Research Foundation</title>
 		<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>

@@ -12,11 +12,13 @@ printHeader();
 			<h2>Contact Us</h2>
 			<img src="images/office/DrLiaoOnDesk.JPG" width="550" alt="Dr. Liao's Office">
             <p>Dr. Liao's Office</p>
-			<img src="images/oeyamaOffice.jpg" width="550" alt="Oeyama-moto Office">
+			<img src="images/office/officeFront.JPG" width="550" alt="Oeyama-moto Office">
             <img src="images/office/officeExterior.JPG" width="550" alt="Oeyama-moto Office side view">
             <p>Oeyama-Moto West Covina Office</p>
             <img src="images/office/waitingRoom1.JPG" width="550" alt="Waiting Room">
             <img src="images/office/waitingRoom2.JPG" width="550" alt="Waiting Room">
+            <img src="images/office/waitingRoom3.JPG" width="550" alt="Waiting Room">
+            <img src="images/office/waitingRoom4.JPG" width="550" alt="Waiting Room">
             <p>Waiting Room</p>
 	<p>If you have questions about your order, need more information on Allesgen, or have feedback to share, please contact us at:
 	</p>
@@ -39,7 +41,7 @@ printHeader();
 
 	</div>
 	<div id="visitorImages"><h3>訪客留影</h3>
-	<?php for($i=1; $i<9; $i++):?>
+	<?php for($i=1; $i<11; $i++):?>
 	<img src="images/visitors/visitor<?php echo $i?>.JPG" width="550" alt="Visitors">
 	<?php endfor;?>	
 	</div>
