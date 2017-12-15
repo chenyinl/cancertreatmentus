@@ -31,7 +31,7 @@ printHeader();
  	Please include patient's full name and contact information. We will promptly respond within 12 hours.
 	</br>
 	</br>
-	微信： Alesgencure
+	微信： Allesgencure
 	<br>
 	LINE: judybenedict 
 	</br>
