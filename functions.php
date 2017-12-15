@@ -68,7 +68,7 @@ function printFooter(){
         West Covina, CA 91791</br>
         USA <br/>
         
-        <a href='https://goo.gl/maps/TNgfha1KZF52'>[Google Map 按這裡]</a>
+        <a href='https://goo.gl/maps/TNgfha1KZF52'>[公司地圖按這裡 Google Map ]</a>
         
   </div>
   <div class="item"><img width='25px', height='25px'
