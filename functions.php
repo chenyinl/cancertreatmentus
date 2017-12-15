@@ -45,12 +45,12 @@ function printBanner(){
 <div id="banner">
 	<img class="no_print_image" src="images/pic02.jpg" width="1180" height="320" alt="" />
 	<div id="logo">
-<a href="index.php">Home 首頁</a>
-<a href="review.php">Review 評論</a>
-<a href="research.php">Treatment 癌症治療</a>
-<a href="aboutus.php">Comosain Alternative 另類療法</a>
-<a href="contact.php">Contact Us 聯絡方式</a>
-<a href="spoof.php">Spoof 假冒網站</a>
+<a href="index.php">首頁 Home</a>
+<a href="review.php">評論 Review</a>
+<a href="research.php">癌症治療 Treatment</a>
+<a href="aboutus.php">另類療法 Comosain Alternative</a>
+<a href="contact.php">聯絡方式 Contact</a>
+<a href="spoof.php">假冒網站 Spoof</a>
 
 <!--<a href="#">Oeyama-moto Cancer Treatment Center</a>-->
 	</div>				
