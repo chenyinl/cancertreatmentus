@@ -11,6 +11,7 @@ function printHeader(){
 		<link rel="stylesheet" type="text/css" href="stylestage.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
+        <link rel="stylesheet" type="text/css" href="style_mobile.css" media="screen"/>
         <script src="nocopyx.js"></script>
         
     
@@ -52,8 +53,8 @@ function printBanner(){
 <a href="research.php">癌症治療</a>
 <a href="aboutus.php">另類療法</a>
 <a href="faq.php">常見問題</a>
-<a href="contact.php">聯絡方式</a>
-<a href="spoof.php">假冒網站</a>
+<a href="contact.php">聯絡</a>
+<a href="spoof.php">假冒</a>
 <br/>
 <a href="index.php">Home</a>
 <a href="review.php">Review</a>

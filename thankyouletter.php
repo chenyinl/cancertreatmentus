@@ -11,11 +11,12 @@ printHeader();
 <div id="content_large">
 <h2>感謝信 Letters and Messages from Patients</h2>
 <div class="special">病人感謝信圖檔</div>
-<img class="max800" src = "images/cancerLetter/177407.jpg">
+
 <img class="max800" src = "images/cancerLetter/177408.jpg">
 <img class="max800" src = "images/cancerLetter/177409.jpg">
 <img class="max800" src = "images/cancerLetter/177410.jpg">
 <img class="max800" src = "images/cancerLetter/177411.jpg">
+<img class="max800" src = "images/cancerLetter/177407.jpg">
 <img class="max800" src = "images/cancerLetter/177412.jpg">
 <img class="max800" src = "images/cancerLetter/177413.jpg">
 <img class="max800" src = "images/cancerLetter/177414.jpg">

@@ -1,0 +1,39 @@
+
+@media only screen and (max-device-width: 768px) {
+
+ h2{
+    font-size: 2em;
+ }
+ .special{
+    font-size: 2em;
+ }
+ 
+ th{
+    font-size: 1.8em;
+    color: DarkBlue;
+ }
+ 
+ td{
+    font-size: 1.8em;
+ }
+ 
+ .item{
+    font-size: 1.8em;
+ }
+ #logo a{
+    font-size: 1.8em;
+    padding: 2px 3px;
+ }
+ 
+ #logo{
+    height: 110px;
+    padding-top: 2em;
+ }
+ 
+ .question{
+    font-size: 2em;
+ }
+ .answer{
+    font-size: 2em;
+ }
+}
