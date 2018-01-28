@@ -9,7 +9,7 @@ printHeader();
 
 <div id="main">
 <div id="content_large">
-<h2>感抗癌藥比較</h2>
+<h2>抗癌藥比較</h2>
 <div class="special">抗癌藥比較</div>
 <table border>
     <tr>
