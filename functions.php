@@ -11,7 +11,7 @@ function printHeader(){
 		<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
-        <script src="nocopy.js"></script>
+        <script src="nocopyx.js"></script>
         
     
 <?php }

@@ -11,7 +11,7 @@ printHeader();
 <div id="content_large">
 <h2>抗癌藥比較</h2>
 
-<div class="special">抗癌藥比較</div><br/>
+<div class="special">晚期癌症抗癌藥比較</div><br/>
 <table border cellpadding="2">
     <tr>
     <th>薬名</th>
@@ -39,7 +39,7 @@ printHeader();
     </tr>
     <tr>
         <th>用途及成功率</th>
-        <td align='center'>一般的癌症<br/>成功率: <b>52%</b></td>
+        <td align='center'>治療任何癌症<br/>成功率: <b>52%</b></td>
         <td align='center'>抗治療肺癌<br/>成功率:  <b>≤10%</b></td>
         <td align='center'>治療乳癌<br/>成功率:  <b>15%</b></td>
         <td align='center'>抗治療肺癌<br/>成功率:  <b>1%</b></td>

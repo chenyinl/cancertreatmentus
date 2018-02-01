@@ -2,8 +2,17 @@
 	overflow: hidden; /* simple clearfix */
 }
 .items .item {
-	float: left;
-	width: 25%;
+  float: left;
+  width: 30%;
   box-sizing: border-box;
-  padding: 10px;
+  font-size: 1.2em;
+  line-height: 1.4em;
+}
+
+.item_long{
+  float: left;
+  width: 40%;
+  box-sizing: border-box;
+  font-size: 1.2em;
+  line-height: 1.4em;
 }
