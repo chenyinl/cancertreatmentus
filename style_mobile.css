@@ -9,31 +9,41 @@
  }
  
  th{
-    font-size: 1.8em;
+    font-size: 1.6em;
     color: DarkBlue;
+    padding: 0.3em;
+    line-height: 2.0em;
  }
  
  td{
-    font-size: 1.8em;
+    font-size: 1.6em;
+    padding: 0.3em;
+    line-height: 2.0em;
  }
  
  .item{
     font-size: 1.8em;
  }
  #logo a{
-    font-size: 1.8em;
-    padding: 2px 3px;
+    font-size: 2.1em;
+    padding: 3px 2px 2px 1px;
  }
  
  #logo{
-    height: 110px;
+    height: 90px;
     padding-top: 2em;
  }
  
  .question{
     font-size: 2em;
+    line-height: 2.1em;
  }
  .answer{
     font-size: 2em;
+    line-height: 2.1em;
+ }
+ 
+.smallEng{
+ font-size: 1.8em !important;
  }
 }

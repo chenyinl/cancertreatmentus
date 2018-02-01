@@ -45,29 +45,29 @@ function printBanner(){
 ?>
 <div id="banner">
 	<img class="no_print_image" src="images/pic02.jpg" width="1180" height="320" alt="" />
-	<div id="logo">
-<a href="index.php">首頁</a>
-<a href="review.php">評論</a>
-<a href="thankyouletter.php">感謝信</a>
-<a href="compare.php">抗癌藥比較</a>
-<a href="research.php">癌症治療</a>
-<a href="aboutus.php">另類療法</a>
-<a href="faq.php">常見問題</a>
+	<div id="logo"><center>
+<a href="index.php">首頁</a>&nbsp;
+<a href="review.php">評論</a>&nbsp;
+<a href="thankyouletter.php">感謝信</a>&nbsp;
+<a href="compare.php">抗癌藥比較</a>&nbsp;
+<a href="research.php">癌症治療</a>&nbsp;
+<a href="aboutus.php">另類療法</a>&nbsp;
+<a href="faq.php">常見問題</a>&nbsp;
 <a href="contact.php">聯絡</a>
-<a href="spoof.php">假冒</a>
+<!--<a href="spoof.php">假冒</a>-->
 <br/>
-<a href="index.php">Home</a>
-<a href="review.php">Review</a>
-<a href="thankyouletter.php">Patients' letters</a>
-<a href="compare.php">Comparsion</a>
-<a href="research.php">Treatment</a>
-<a href="aboutus.php">Comosain Alternative</a>
-<a href="faq.php">FAQ</a>
-<a href="contact.php">Contact Us</a>
-<a href="spoof.php">Spoof</a>
+<a class="smallEng" href="index.php">Home</a>
+<a class="smallEng" href="review.php">Review</a>
+<a class="smallEng" href="thankyouletter.php">Letters</a>
+<a class="smallEng" href="compare.php">Comparsion</a>
+<a class="smallEng" href="research.php">Treatment</a>
+<a class="smallEng" href="aboutus.php">Comosain</a>
+<a class="smallEng" href="faq.php">FAQ</a>
+<a class="smallEng" href="contact.php">Contact</a>
+<!--<a href="spoof.php">Spoof</a>-->
 
 <!--<a href="#">Oeyama-moto Cancer Treatment Center</a>-->
-	</div>				
+	</center></div>				
 </div>
 <?php
 }
