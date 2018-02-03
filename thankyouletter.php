@@ -11,30 +11,31 @@ printHeader();
 <div id="content_large">
 <h2>感謝信 Letters and Messages from Patients</h2>
 <div class="special">病人感謝信圖檔</div>
-
-<img class="max800" src = "images/cancerLetter/177408.jpg">
 <br/>
-<!--<img class="max800" src = "images/cancerLetter/177409.jpg">-->
-<br/><img class="max800" src = "images/cancerLetter/177410.jpg">
-<br/><img class="max800" src = "images/cancerLetter/177411.jpg">
-<br/><img class="max800" src = "images/cancerLetter/177407.jpg">
-<br/><img class="max800" src = "images/cancerLetter/177412.jpg">
-<br/><img class="max800" src = "images/cancerLetter/177413.jpg">
-<br/><img class="max800" src = "images/cancerLetter/177414.jpg">
-<br/><img class="max800" src = "images/cancerLetter/177415.jpg">
-<br/><img class="max800" src = "images/cancerLetter/message2.jpg">
-<br/><img class="max800" src = "images/cancerLetter/message3.jpg">
-<br/><img class="max800" src = "images/cancerLetter/message4.jpg">
-<br/><img class="max800" src = "images/cancerLetter/letter1.png">
-<br/><img class="max800" src = "images/cancerLetter/letter2.png">
-<br/><img class="max800" src = "images/cancerLetter/letter3.png">
-<br/><img class="max800" src = "images/cancerLetter/letter4.png">
-<br/><img class="max800" src = "images/cancerLetter/typed1.png">
-<br/><img class="max800" src = "images/cancerLetter/typed2.png">
-<br/><img class="max800" src = "images/cancerLetter/typed3.png">
-<br/><img class="max800" src = "images/cancerLetter/typed4.png">
-<br/><img class="max800" src = "images/cancerLetter/letter082914.jpg">
-<br/><img class="max800" src = "images/cancerLetter/letter080914.jpg">
+<img class="thkLetrImg" src = "images/cancerLetter/177408.jpg">
+<br/>
+<!--<img class="thkLetrImg" src = "images/cancerLetter/177409.jpg">-->
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177410.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177411.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/wechat01.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177407.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177412.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177413.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177414.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/177415.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/message2.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/message3.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/message4.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/letter1.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/letter2.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/letter3.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/letter4.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/typed1.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/typed2.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/typed3.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/typed4.png">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/letter082914.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/letter080914.jpg">
 </div>
 <br class="clear" />
 </div>

@@ -11,7 +11,7 @@ printHeader();
 <div id="content_large">
 <h2>抗癌藥比較</h2>
 
-<div class="special">晚期癌症抗癌藥比較</div><br/>
+<div class="special">中期，晚期癌症抗癌藥比較</div><br/>
 <table border cellpadding="2">
     <tr>
     <th>薬名</th>
@@ -47,10 +47,10 @@ printHeader();
     </tr>
     <tr>
         <th>製造商</th>
-        <td align='center'>Oeyama-moto</td>
+        <td align='center'>Oeyama-Moto</td>
         <td align='center'>Astra-Zeneca</td>
         <td align='center'>Pfizer</td>
-        <td align='center'>Merk</td>
+        <td align='center'>Merck</td>
         <td align='center'>Amgen</td>
     </tr>
     <tr>

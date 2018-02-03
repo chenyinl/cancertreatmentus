@@ -17,7 +17,7 @@
 .special{
     text-align: center;
     font-weight:bold;
-    font-size: 130%;
+    font-size: 2em;
     color: Crimson;
 }
 
@@ -387,4 +387,3 @@ ul h4 {
 	font-size: 18pt;
 	margin: 20px 20px 20px 20px;
 }
-

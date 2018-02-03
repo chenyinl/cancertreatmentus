@@ -17,7 +17,7 @@
 .special{
     text-align: center;
     font-weight:bold;
-    font-size: 130%;
+    font-size: 2em;
     color: Crimson;
 }
 
@@ -389,8 +389,8 @@ ul h4 {
 	margin: 20px 20px 20px 20px;
 }
 
-.max800{
-    max-width:800px;
+.thkLetrImg{
+    max-width:1050px;
     display: block;
     margin: 0 auto;
     text-align: center !important;
