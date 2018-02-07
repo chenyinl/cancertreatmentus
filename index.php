@@ -9,6 +9,7 @@ printHeader();
 
 <div id="main">
 <img id="heroImage" src="images/articlenews.original.jpg"/>
+<img class = "heroImage" src="images/articlenews.201802.jpg"/>
 <div id="saveMonDaughter" class="regularArticle">
 	<center class="regularArticle"><b>廖博士的偉大研發救了我和我媽媽</b></center>
 <p class="regularArticle">我叫保珍，現住西雅圖， 我媽媽今年96歲，大約10年前做了腸癌手術。醫生建議做化療， 由於媽媽體質虛弱沒有接受醫生建議。參照網上提示戒甜，戒煙，戒補，戒煎炸及高溫食物，不能吃飽加上每天飲半杯綠豆水，這樣平安地度過7，8 年。中途身體出現痛症主要是大便不通引致，最近幾年以粥食爲主少吃飯。每當她吃多體重增加，痛症又回來。</p>

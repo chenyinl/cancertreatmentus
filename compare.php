@@ -15,7 +15,7 @@ printHeader();
 <table border cellpadding="2">
     <tr>
     <th>薬名</th>
-    <th>Allesgen</th>
+    <th>Allesgen<br/>廖博士研發</th>
     <th>Tagrisso<br/> (Cycares)<br/>美國抗癌藥</th>
     <th>Ibrance<br/>(Palbociclib)<br/>美國抗癌藥</th>
     <th>Keytruda<br/>(Pembrolizumab)<br/>美國抗癌藥</th>
@@ -55,7 +55,7 @@ printHeader();
     </tr>
     <tr>
         <th>副作用</th>
-        <td valign="top">1. <b>無副作用</b><br/>2. 利用病人本身的白血球來製造干擾素: 2,6,8及癌細胞死亡酶T. N. F. <br/>3. 有1%的病人出現微面紅, 心悸</td>
+        <td valign="top">1. <b><span class="fdaRed">無副作用</span></b><br/>2. 利用病人本身的白血球來製造干擾素: 2,6,8及癌細胞死亡酶T. N. F. <br/>3. 有1%的病人出現微面紅, 心悸</td>
         <td valign="top">1. 傷害肝, 腎, 骨髓, 功能降低 <br/>2.中度及嚴重貧血, 使白血球及血小板數量降低</td>
         <td valign="top">1. 傷害肝, 腎, 骨髓, 功能降低 <br/>2.中度及嚴重貧血, 使白血球及血小板數量降低</td>
         <td valign="top">1. 傷害肝, 腎, 骨髓, 功能降低 <br/>2.中度及嚴重貧血, 使白血球及血小板數量降低 <br/>3. 呼吸道肺炎 3% <br/>4. 甲狀腺炎 8.5% <br/>5. 肺炎1% <br/>6. 腎炎 <br/>7. 水腫 20%</td>
