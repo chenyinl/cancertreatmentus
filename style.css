@@ -259,9 +259,9 @@ ul h4 {
 	position: absolute;
 	bottom: 0;
 	left: 0px;
-	height: 63px;
+	height: 60px;
 	width: 100%;
-	line-height: 63px;
+	line-height: 30px;
 	background: url(images/logo.jpg) repeat-x bottom right;
 	opacity: 0.95;
 }
@@ -271,6 +271,7 @@ ul h4 {
 	color: #FFFFFF;
 	font-weight:bold;
 	padding: 0 16px;
+	font-size:1.2em;
 }
 
 #logo h1 {
@@ -387,3 +388,27 @@ ul h4 {
 	font-size: 18pt;
 	margin: 20px 20px 20px 20px;
 }
+
+.thkLetrImg{
+    max-width:1050px;
+    display: block;
+    margin: 0 auto;
+    text-align: center !important;
+}
+
+.question{
+    color: DarkBlue;
+}
+.answer{
+   
+}
+.navdiv{
+    float:left;
+    padding-right: 0.6em;
+    padding-left: 0.6em;
+}
+.navdivnofloat{
+
+}
+
+

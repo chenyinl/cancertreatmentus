@@ -1,5 +1,5 @@
 <?php
-include("functionsstage.php");
+include("functions.php");
 include( "reviewArray.php" );
 printHeader();
 ?>
@@ -107,8 +107,14 @@ printHeader();
 <br/>若病人想吃其他抗癌藥物，請咨詢廖博士后再服用
 </span>
 </p>
-
-
+<hr/>
+<br/>
+<p>
+<span class="question">11.  Allesgen要如何保存</span>
+<span class='answer'>
+<br/>Allesgen要放冰箱冷藏或室温都可
+</span>
+</p>
 </div>
 <br class="clear" />
 </div>

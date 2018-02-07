@@ -8,10 +8,9 @@ function printHeader(){
 		<meta name="description" content="" />
 		<meta name="Oeyama-Moto Cancer Treatment Center & Research Foundation, Allesgen Alternative Treatment, Cancer Treatment" content="" />
 		<title>Oeyama-Moto Cancer Treatment Center & Research Foundation</title>
-		<link rel="stylesheet" type="text/css" href="stylestage.css" media="screen"/>
+		<link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
-        <link rel="stylesheet" type="text/css" href="style_mobile.css" media="screen"/>
         <script src="nocopyx.js"></script>
         
     
@@ -45,50 +44,16 @@ function printBanner(){
 ?>
 <div id="banner">
 	<img class="no_print_image" src="images/pic02.jpg" width="1180" height="320" alt="" />
-	<div id="logo"><center>
-		
-<div class="navdiv">
-<a href="index.php">首頁</a><br/>
-<a class="smallEng" href="index.php">Home</a>
-</div>
+	<div id="logo">
+<a href="index.php">首頁 Home</a>
+<a href="review.php">評論 Review</a>
+<a href="research.php">癌症治療 Treatment</a>
+<a href="aboutus.php">另類療法 Comosain Alternative</a>
+<a href="contact.php">聯絡方式 Contact</a>
+<a href="spoof.php">假冒網站 Spoof</a>
 
-<div class="navdiv">
-<a href="review.php">評論</a><br/>
-<a class="smallEng" href="review.php">Review</a>
-</div>
-
-<div class="navdiv">
-<a href="thankyouletter.php">感謝信</a><br/>
-<a class="smallEng" href="thankyouletter.php">Letters</a>
-</div>
-
-<div class="navdiv">
-<a href="compare.php">抗癌藥比較</a><br/>
-<a class="smallEng" href="compare.php">Comparsion</a>
-</div>
-<div class="navdiv">
-<a href="research.php">癌症治療</a><br/>
-<a class="smallEng" href="research.php">Treatment</a>
-</div>
-
-<div class="navdiv">
-<a href="aboutus.php">另類療法</a><br/>
-<a class="smallEng" href="aboutus.php">Comosain</a>
-</div>
-
-<div class="navdiv">
-<a href="faq.php">常見問題</a><br/>
-<a class="smallEng" href="faq.php">FAQ</a>
-</div>
-
-<div class="navdiv">
-<a href="contact.php">聯絡</a><br/>
-<a class="smallEng" href="contact.php">Contact</a>
-</div>
-<!--<a href="spoof.php">假冒</a>-->
-<!--<a href="spoof.php">Spoof</a>-->
 <!--<a href="#">Oeyama-moto Cancer Treatment Center</a>-->
-	</center></div>				
+	</div>				
 </div>
 <?php
 }
@@ -97,15 +62,9 @@ function printFooter(){
 <div id='footer'>
     <h2>Oeyama Moto Cancer Research Foundation (USA)</h2>
   <div class="items">
-  <div class="item_long">
-	  <img width='25px', height='25px'
-            src='/images/contact/Email_Icon.png'>
-      <b>Email</b><br/>
-    <a href="mailto:kingliao1@yahoo.com" 
-        target="_blank">kingliao1@yahoo.com</a><br/>
-    <br/><img width='25px', height='25px'
+  <div class="item"><img width='25px', height='25px'
             src='/images/contact/GoogleMap_Icon.png'>
-    <b>Address</b><br/> 3106 E. Garvey Ave South<br/>
+        <b>Address</b><br/> 3106 E. Garvey Ave South<br/>
         West Covina, CA 91791</br>
         USA <br/>
         
@@ -118,6 +77,14 @@ function printFooter(){
   <b><img width='25px', height='25px'
         src='/images/contact/Fax_Icon.png'>
     Fax</b><br/>(626) 967-2929
+  </div>
+  
+  <div class="item">
+      <img width='25px', height='25px'
+            src='/images/contact/Email_Icon.png'>
+      <b>Email</b><br/>
+    <a href="mailto:kingliao1@yahoo.com" 
+        target="_blank">kingliao1@yahoo.com</a>
   </div>
   
   <div class="item"><img src='/images/contact/LINE_Icon.png'  

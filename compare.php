@@ -1,5 +1,5 @@
 <?php
-include("functionsstage.php");
+include("functions.php");
 include( "reviewArray.php" );
 printHeader();
 ?>
@@ -15,7 +15,7 @@ printHeader();
 <table border cellpadding="2">
     <tr>
     <th>薬名</th>
-    <th>Allesgen<br/>廖博士研發</th>
+    <th class="secondCol">Allesgen<br/>廖博士研發</th>
     <th>Tagrisso<br/> (Cycares)<br/>美國抗癌藥</th>
     <th>Ibrance<br/>(Palbociclib)<br/>美國抗癌藥</th>
     <th>Keytruda<br/>(Pembrolizumab)<br/>美國抗癌藥</th>
@@ -30,7 +30,7 @@ printHeader();
         <td align='center'>400mg</td>
     </tr>
     <tr>
-        <th>價格</th>
+        <th>價格(美元)</th>
         <td align='center'>$1800/瓶</td>
         <td align='center'>$14500~$15000/瓶</td>
         <td align='center'>$12615/瓶</td>

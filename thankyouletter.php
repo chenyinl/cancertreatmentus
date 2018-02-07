@@ -1,5 +1,5 @@
 <?php
-include("functionsstage.php");
+include("functions.php");
 include( "reviewArray.php" );
 printHeader();
 ?>

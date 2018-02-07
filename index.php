@@ -20,7 +20,6 @@ printHeader();
 
 <p class="regularArticle">保珍 1/10/2018 </p>
 </div>
-<img id="heroImage" src="images/callFromChina.jpg"/>   
 <div id="content">
     
     <div id="box1">

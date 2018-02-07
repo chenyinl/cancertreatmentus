@@ -8,3 +8,7 @@ body{}
 #heroImage{
     width:1080px;
 }
+
+#logo{
+    display:none;
+}
