@@ -10,6 +10,7 @@ printHeader();
 <div id="main">
 <img id="heroImage" src="images/articlenews.original.jpg"/>
 <img class = "heroImage" src="images/articlenews.201802.jpg"/>
+<img class="thkLetrImg" src = "images/cancerLetter/callFromChina.jpg">
 <div id="saveMonDaughter" class="regularArticle">
 	<center class="regularArticle"><b>廖博士的偉大研發救了我和我媽媽</b></center>
 <p class="regularArticle">我叫保珍，現住西雅圖， 我媽媽今年96歲，大約10年前做了腸癌手術。醫生建議做化療， 由於媽媽體質虛弱沒有接受醫生建議。參照網上提示戒甜，戒煙，戒補，戒煎炸及高溫食物，不能吃飽加上每天飲半杯綠豆水，這樣平安地度過7，8 年。中途身體出現痛症主要是大便不通引致，最近幾年以粥食爲主少吃飯。每當她吃多體重增加，痛症又回來。</p>
@@ -34,10 +35,11 @@ printHeader();
         </p>
         <img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">
         <p><b>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示
-        <br/>第二期臨床試驗已完成。<span class="fdaRed">83 個人體實驗全部都完成。無副作用。</span></b>
+        <br/>第二期臨床試驗已完成。<span class="fdaRed">126 個體實驗全部都完成。無副作用。3，4期癌症病人試驗結果52%病人腫瘤全部，27%病人腫瘤大部分消失，10%病人腫瘤無惡化。9%沒有影響。</span></b>
         </p>
-        <img  class="fdaImage" src="/images/clinicaltrials.jpg">
+        <?php /*<img  class="fdaImage" src="/images/clinicaltrials.jpg">*/?>
       </div>
+      
       <h3>Our Mission 任務</h3>
       <p>To be the trusted leader in quality health care that is personalized, compassionate, and innovative. We stand for empowerment, integrity, respect, allegiality, and vitality. We commit to authenticity and excellence in clinical health care. You can count on us to be fully present in the delivery of uncompromising health care.</p>
 
@@ -66,6 +68,9 @@ printHeader();
 	  <image src="images/cert/DrLiaoCert_Taipei1zh.PNG" width="550" alt="Tapiei Medical University" title="Tapiei Medical University">
 	  <image src="images/cert/DrLiaoCertWAGO.JPG" width="550" alt="Western Association of Gynecologic Oncologists" title="Western Association of Gynecologic Oncologists"> 
 	  <image src="images/cert/DrLiaoDonation.JPG" width="550" alt="Donation to Taipei Medical Unviersity" title="Donation to Taipei Medical Unviersity">    
+      <image src="images/cert/4certs.JPG" width="550" > 
+      <image src="images/cert/5certs.JPG" width="550"> 
+	  <image src="images/cert/cabin.JPG" width="550" > 
     </div>
    
     

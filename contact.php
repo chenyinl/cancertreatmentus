@@ -20,6 +20,9 @@ printHeader();
             <img src="images/office/waitingRoom2.JPG" width="550" alt="Waiting Room">
             <img src="images/office/waitingRoom3.JPG" width="550" alt="Waiting Room">
             <img src="images/office/waitingRoom4.JPG" width="550" alt="Waiting Room">
+            <img src="images/office/waitingRoom5.JPG" width="550" alt="Waiting Room">
+            <img src="images/office/waitingRoom6.JPG" width="550" alt="Waiting Room">
+            <img src="images/office/waitingRoom7.JPG" width="550" alt="Waiting Room">
             <p>候診室 Waiting Room</p>
 	<p>If you have questions about your order, need more information on Allesgen, or have feedback to share, please contact us at:
 	</p>
