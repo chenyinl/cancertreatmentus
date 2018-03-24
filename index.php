@@ -8,8 +8,8 @@ printHeader();
 <?php printBanner();?>
 
 <div id="main">
-<img id="heroImage" src="images/articlenews.original.jpg"/>
-<img class = "heroImage" src="images/articlenews.201802.jpg"/>
+<!--<img class = "heroImage" src="images/articlenews.20180308.png"/>-->
+<img id="heroImage" src="images/articlenews.20180314.png"/>
 <img class="thkLetrImg" src = "images/cancerLetter/callFromChina.jpg">
 <div id="saveMonDaughter" class="regularArticle">
 	<center class="regularArticle"><b>廖博士的偉大研發救了我和我媽媽</b></center>
@@ -20,6 +20,25 @@ printHeader();
 <p class="regularArticle">再次感謝廖博士，廖太太的幫助及偉大研發，如果能改變爲偏素食的健康食療加上“Allesgen”的治療相信癌症無法在你身體内壯大生存，祝各位身體健康，新年快樂！</p>
 
 <p class="regularArticle">保珍 1/10/2018 </p>
+
+<p class="regularArticle">Dear Dr. Liao and Mrs. Liao<br/>
+
+I am BoZhen in Seattle.  My mum is 96 years old.  About 10 years ago my mom got a serious operation for the bowel cancer.  The doctor suggested her take the chemical therapy but my mom is too weak to take any further treatment so she didn’t do any follow up treatment.   Learning from the internet advise that sugar, milk products or any tonic food, fried food, baked food,  would help cancer grow or spread faster.  To stay healthy and minimized the burden of bowel better eat 70% of full.   My mom keeps on drink half cup of Mung bean soup every day that helps for the Detoxification.  It is lucky that she is ok for the last 8 years.  However in between she got back and stomach ache whenever she has constipation issue.  So for the last few years her recipe is congee and less rice.  Whenever her appetite being good and gain weight then she got the pain again.  The pain was stomachache and groin.
+<br/>
+In 2016 July mom got the pain again however this time was bone pain not like before.  Even she took strong painkiller she can’t stop crying due to the deeply pain.  Before her pain will be gone within 2 months but this time getting worse.   The nurse at the nursing home said her cancer may diffusion at bone.  My mom doesn’t want to do any treatment or checking which make her feel uncomfortable.   We were so worry about my mom’s Health status.  It is lucky that in 2016 Sept., we found the supplement named ”Allegen” which developed by Dr. Liao.   It said all natural and no side effect at all furthermore the result will be tell within a certain period of time not endless ongoing take.  Since there is no other positive option and I ordered 2 as trying for mom.  After 2 weeks my mom’ pain being less and I am so excited that it works on her.  She kept on taking it daily and after 7 months period she back to normal.  We highly appreciate the team of Dr. Liao had develop such great supplement that save my mom’s life.  Mrs. Liao helps us for the guidance of taking the supplement.
+<br/>
+In mid of 2017 I felt my esophagus got something like sputum however it grows daily.  About few months later it was getting bigger.  When I was sleep I felt it touching the other side of my esophagus that made me coughing without any reason.  I was so scared and dare not to do any checkup.  I was thinking that “Allesgen” can rescue my mom and I would like to try it as well.  At the beginning I was taking 2pcs each after breakfast and dinner meal.  About 2 weeks later my coughing stopped.  Now I almost forget about that tumor.  However when I eat quite some of sweets like date soup, water melon, Cassava etc…I can feel it grows again.  Now other than the “Allesgen” help I have to be careful on healthy food selection.
+<br/>
+Friends remind me that quite some of the sickness is from junk food including Gout, High blood pressure, Tumor, Cancer etc….  If need to get rid of the disease, healthy food selection is very important.  Stay healthy recipes, less meat and eat 80% full or less. Less sea food etc… for good taste food just try a little bit but not too much.  This way will help to keep away from disease or stop diffusion.  Vegetarian is not really healthy for long term as it can’t be fulfill the nutrition need as well as may lost the nutrition balance.
+<br/>
+Again I would like to say thank you to Dr. Liao and Mrs. Liao for such great creation/develop of this supplement.  If people can change the unhealthy custom and being less meat with ”Allegen” help any cancer won’t be survive or diffusion in the body.
+<br/>
+Stay healthy and Happy New Year !!
+<br/>
+Healthy tips sharing:  take 4 or 5 pieces of raw fresh garlic mud and mix with food daily will help the prevention of flu or get recover soon.
+<br/>
+2-12-2018
+</p>
 </div>
 <div id="content">
     
@@ -35,7 +54,7 @@ printHeader();
         </p>
         <img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">
         <p><b>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示
-        <br/>第二期臨床試驗已完成。<span class="fdaRed">126 個體實驗全部都完成。無副作用。3，4期癌症病人試驗結果52%病人腫瘤全部，27%病人腫瘤大部分消失，10%病人腫瘤無惡化。9%沒有影響。</span></b>
+        <br/>第二期臨床試驗已完成。<span class="fdaRed">126 個體實驗全部都完成。無副作用。3，4期癌症病人試驗結果52%病人腫瘤全部消失，27%病人腫瘤大部分消失，10%病人腫瘤無惡化。9%沒有影響。</span></b>
         </p>
         <?php /*<img  class="fdaImage" src="/images/clinicaltrials.jpg">*/?>
       </div>
@@ -83,6 +102,8 @@ printHeader();
 </div>
 
 <?php include "ctscan.php";?>
+
+
 
 <?php printFooter();?>
 </div>

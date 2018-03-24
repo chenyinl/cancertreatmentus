@@ -50,6 +50,7 @@
 <p>但是實際上Andy已經放棄希望了，整天在家裏無所事事，上網閒晃看電視看報紙打發時間，無意中在網站上看到廖醫師的產品，一查發現大家對於這個產品的反應很不錯，然後帶著過去的病歷及CT去請教廖教授並相信廖教授的新發明，決定服用這沒有副作用的產品。三個月每天吃四粒，後去照CT及PET腫瘤變小了很多，現在已經全部消失了，血液檢查癌指數從3,500下降到現在正常，非常感謝。</p>
 <br/><img class="size-medium wp-image-8207988" src="images/CTScan/patientC.jpg" alt="肺癌治療前7-8一cm，服用3個月縮小到3cm。（廖學時醫學博士提供）" width="450" height="217" /><br/>肺癌治療前7-8cm，服用3個月縮小到3cm。（廖學時醫學博士提供）
 <br/><figure><img class="size-medium wp-image-8207994" src="images/CTScan/patientE.jpg" alt="前列腺癌轉移，服用4個月癌消失。（廖學時醫學博士提供）" width="450" height="242" /><figcaption class="wp-caption-text">前列腺癌轉移，服用4個月癌消失。（廖學時醫學博士提供）</figcaption></figure>
+
 <p>您有任何問題或需要購買，請聯繫廖博士!</p>
-<p>沒有代理商 謹防假冒</p>
+<p style="color:red;font-weight: bold;font-size: 1.5em">沒有代理商 謹防假冒</p>
 </div>

@@ -16,7 +16,7 @@ printHeader();
     <tr>
     <th>薬名</th>
     <th class="secondCol">Allesgen<br/>廖博士研發</th>
-    <th>Tagrisso<br/> (Cycares)<br/>美國抗癌藥</th>
+    <th>Tagrisso<br/> (Osimertinib)<br/>美國抗癌藥</th>
     <th>Ibrance<br/>(Palbociclib)<br/>美國抗癌藥</th>
     <th>Keytruda<br/>(Pembrolizumab)<br/>美國抗癌藥</th>
     <th>Vectibix<br/>(Panitumumab)<br/>美國抗癌藥</th>
@@ -31,7 +31,7 @@ printHeader();
     </tr>
     <tr>
         <th>價格(美元)</th>
-        <td align='center'>$1800/瓶</td>
+        <td align='center'>電洽</td>
         <td align='center'>$14500~$15000/瓶</td>
         <td align='center'>$12615/瓶</td>
         <td align='center'>$12500/瓶</td>
@@ -39,7 +39,7 @@ printHeader();
     </tr>
     <tr>
         <th>用途及成功率</th>
-        <td align='center'>治療任何癌症<br/>成功率: <b>52%</b></td>
+        <td align='center'>治療任何癌症<br/>成功率: <b>52%</b> 腫瘤全消失, <b>27%</b> 大部分消失</td>
         <td align='center'>抗治療肺癌<br/>成功率:  <b>≤10%</b></td>
         <td align='center'>治療乳癌<br/>成功率:  <b>15%</b></td>
         <td align='center'>抗治療肺癌<br/>成功率:  <b>1%</b></td>

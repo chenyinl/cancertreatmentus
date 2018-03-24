@@ -10,6 +10,9 @@
 	padding: 0;
 }
 #heroImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width:1180px;
     text-align:center;
 }
