@@ -12,6 +12,8 @@ function printHeader(){
         <link rel="stylesheet" type="text/css" href="contact.css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="style_print.css" media="print"/>
         <link rel="stylesheet" type="text/css" href="style_mobile.css" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="style_desktop.css" media="screen"/>
+        <script src="nocopyx.js"></script>
         <script src="nocopyx.js"></script>
         
     

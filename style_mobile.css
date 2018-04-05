@@ -52,13 +52,22 @@
 .smallEng{
  font-size: 1.5em !important;
  }
- 
- .navdiv{
+.navdiv{
     float:left;
     padding-right: 0.5em;
     padding-left: 0.5em;
-}
+  }
 .secondCol{
    min-width:160px;
+}
+
+/* new update list */
+.newupdatediv{
+    margin-left: 60px;
+}
+.newupdateDate{
+    color:#556B2F; /*Dark Dark Olive Green*/
+    font-size: 14pt;
+    margin-bottom:0.5em;
 }
 }
