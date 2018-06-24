@@ -8,8 +8,8 @@ printHeader();
 <?php printBanner();?>
 
 <div id="main">
-<!--<img class = "heroImage" src="images/articlenews.20180308.png"/>-->
-<img id="heroImage" src="images/articlenews.201802.jpg"/>
+<!--<img class = "heroImage" src="images/articlenews.20180409.jpg"/>-->
+<img id="heroImage" src="images/articlenews.20180409.jpg"/>
 <?php include("newupdate.php");?>
 <img class="thkLetrImg" src = "images/cancerLetter/callFromChina.jpg">
 
@@ -25,7 +25,7 @@ printHeader();
       <div id="fdaLetters">
         <p><b>2014年5月9日<br/>美國食品藥品監督管理局 經審查我們的提交<br/>並決定第二期臨床實驗可以開始</b>
         </p>
-        <img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">
+        <?php /*<img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">*/?>
         <p><b>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示
         <br/>第二期臨床試驗已完成。<span class="fdaRed">126 個體實驗全部都完成。無副作用。3，4期癌症病人試驗結果52%病人腫瘤全部消失，27%病人腫瘤大部分消失，10%病人腫瘤無惡化。9%沒有影響。</span></b>
         </p>
