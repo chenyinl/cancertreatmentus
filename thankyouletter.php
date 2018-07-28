@@ -54,6 +54,10 @@ Healthy tips sharing:  take 4 or 5 pieces of raw fresh garlic mud and mix with f
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177411.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177412.jpg">
 <hr/>
+<br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReviews1.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReview2.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReview3.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReview4.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070801yelp.jpeg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070802yelp.jpeg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070803message.png">
@@ -68,6 +72,8 @@ Healthy tips sharing:  take 4 or 5 pieces of raw fresh garlic mud and mix with f
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177413.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177414.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177415.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/share_MsF.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/share_Mich.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/wechat01.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message2.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message2.1.jpg">

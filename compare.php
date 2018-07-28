@@ -32,7 +32,7 @@ printHeader();
     </tr>
     <tr>
         <th>價格(美元)<br/>Price (US Dollars)</th>
-        <td align='center'>$2000/瓶/Bottle</td>
+        <td align='center'></td>
         <td align='center'>$18000/瓶/Bottle</td>
         <td align='center'>$11800/瓶/Bottle</td>
         <td align='center'>$12500/瓶/Bottle <br/>$150000/year</td>
