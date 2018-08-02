@@ -443,5 +443,19 @@ hr{
 	background-color: Black;
 
 }
+/* move fda letter */
+.fdadiv{
+text-align: center;
+}
+
+.green{
+color:#98ae5b;
+}
+
+.fdaLetters{
+color: #5C5C5C;
+font-size: 14pt;
+    line-height: 1.70em;
+}
 }
 

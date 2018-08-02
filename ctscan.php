@@ -9,7 +9,7 @@
 <h3 style="color:black">目前癌友的最好產品之一</h3>
 <p>「Allesgen」是用九種不同的植物及果實高度濃縮提煉而成，是廖學時博士和其九位醫師團隊花了十餘年的時間研發出來的天然酵素群。它不只增強身體的免疫系統，且能摧毀癌細胞，而沒有副作用，是目前癌友們的最好產品之一。可用於數十種癌症：肺癌、肝癌、乳癌、腸癌、胃癌、胰臟癌、腎臟癌、鼻咽癌、甲狀腺癌、卵巢癌、子宮頸癌、陰道癌、子宮體癌、膀胱癌、腦癌、攝護腺癌、皮膚黑色素癌、血癌及淋巴癌等。僅舉幾例如下：
 
-<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" alt="癌症末期 全身擴散 治療三個月後" width="550"  /><figcaption class="wp-caption-text">癌症末期 全身擴散 治療三個月後</figcaption></p>
+<!--<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" alt="癌症末期 全身擴散 治療三個月後" width="550"  /><figcaption class="wp-caption-text">癌症末期 全身擴散 治療三個月後</figcaption>--></p>
 
 <br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancerXray.jpg" alt="肺癌末期病人吃藥治療前4/21/2014 肺癌末期病人吃藥治療後 6/7/2014" width="550"  /><figcaption class="wp-caption-text">肺癌末期病人吃藥治療前4/21/2014 肺癌末期病人吃藥治療後 6/7/2014</figcaption></p>
 

@@ -9,14 +9,37 @@ printHeader();
 
 <div id="main">
 <!--<img class = "heroImage" src="images/articlenews.20180409.jpg"/>-->
-<img id="heroImage" src="images/articlenews.20180409.jpg"/>
+<img id="heroImage" src="images/articlenews.20180802.jpg"/>
+<div class="fdadiv">
+<h3 style="color:red;font-weight: bold;font-size: 1.5em">FDA Submission 美國藥品管理局審查</h3>
+      <p style="color:red;">2015年1月24曰通過完成美國藥物管理局FDA的第二階段的人體試驗<br/>
+      Passed US Food and Drug Administration (FDA) Phase II human testing on January 24th, 2015.
+      </p>
+      <h3 class="green" style="font-weight: bold;font-size: 1.5em;">- FDA Submission 食品藥品管理局審查 -</h3>
+      <div class="fdaLetters">
+        <p><b>2014年5月9日<br/>美國食品藥品監督管理局 經審查我們的提交<br/>並決定第二期臨床實驗可以開始</b>
+        </p>
+        <?php /*<img class="fdaImage" src="/images/removeClinicalHoldPage1.jpg">*/?>
+        <p><b>2015年1月底本研究所已完成第二期臨床試驗<br/>在1月24日2015年收到美國食品藥品監督管理局的協議註冊和結果系統的收據顯示
+        <br/>第二期臨床試驗已完成。<span class="fdaRed">126 個體實驗全部都完成。無副作用。3，4期癌症病人試驗結果52%病人腫瘤全部消失，27%病人腫瘤大部分消失，10%病人腫瘤無惡化。9%沒有影響。</span></b>
+        </p>
+        <img  class="fdaImage" src="/images/clinicaltrialsWhiteOut.jpg">
+      </div>
+      <!-- special image -->
+      <img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" 
+      alt="癌症末期 全身擴散 治療三個月後" width="550"  />
+      <figcaption class="wp-caption-text">癌症末期 全身擴散 治療三個月後</figcaption>
+      
+</div>
+
+
 <?php include("newupdate.php");?>
 <img class="thkLetrImg" src = "images/cancerLetter/callFromChina.jpg">
 
 <div id="content">
     
     <div id="box1">
-      
+    <!--  
       <h3 style="color:red;font-weight: bold;font-size: 1.5em">FDA Submission 美國藥品管理局審查</h3>
       <p style="color:red;">2015年1月24曰通過完成美國藥物管理局FDA的第二階段的人體試驗<br/>
       Passed US Food and Drug Administration (FDA) Phase II human testing on January 24th, 2015.
@@ -30,7 +53,7 @@ printHeader();
         <br/>第二期臨床試驗已完成。<span class="fdaRed">126 個體實驗全部都完成。無副作用。3，4期癌症病人試驗結果52%病人腫瘤全部消失，27%病人腫瘤大部分消失，10%病人腫瘤無惡化。9%沒有影響。</span></b>
         </p>
         <img  class="fdaImage" src="/images/clinicaltrialsWhiteOut.jpg">
-      </div>
+      </div>-->
       
       <h3>Our Mission 任務</h3>
       <p>To be the trusted leader in quality health care that is personalized, compassionate, and innovative. We stand for empowerment, integrity, respect, allegiality, and vitality. We commit to authenticity and excellence in clinical health care. You can count on us to be fully present in the delivery of uncompromising health care.</p>
