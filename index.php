@@ -26,7 +26,7 @@ printHeader();
         <img  class="fdaImage" src="/images/clinicaltrialsWhiteOut.jpg">
       </div>
       <!-- special image -->
-      <img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" 
+      <img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months_updated.jpg" 
       alt="癌症末期 全身擴散 治療三個月後" width="550"  />
       <figcaption class="wp-caption-text">癌症末期 全身擴散 治療三個月後</figcaption>
       

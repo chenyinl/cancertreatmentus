@@ -74,6 +74,7 @@ Healthy tips sharing:  take 4 or 5 pieces of raw fresh garlic mud and mix with f
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177415.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/share_MsF.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/share_Mich.jpg">
+<br/><img class="thkLetrImg" src = "images/cancerLetter/MsL3reports.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/wechat01.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message2.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message2.1.jpg">
