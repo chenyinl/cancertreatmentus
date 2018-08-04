@@ -57,33 +57,45 @@ Healthy tips sharing:  take 4 or 5 pieces of raw fresh garlic mud and mix with f
 <br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReviews1.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReview2.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReview3.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/ChineseReview4.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070801yelp.jpeg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070802yelp.jpeg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070803message.png">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/2018070804message.jpeg">
 <hr/>
 
 <br/><img class="thkLetrImg" src = "images/cancerLetter/letter080914.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/letter082914.jpg">
-
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177407.jpg">
-
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177413.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177414.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/177415.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/share_MsF.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/share_Mich.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/MsL3reports.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/wechat01.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message2.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message2.1.jpg">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message3.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/message4.jpg">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/letter1.png">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/letter2.png">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/letter3.png">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/letter4.png">
+<hr/>
 <br/><img class="thkLetrImg" src = "images/cancerLetter/typed1.png">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/typed2.png">
 <br/><img class="thkLetrImg" src = "images/cancerLetter/typed3.png">
