@@ -6,28 +6,28 @@
 
 <figure class='thkLetrImg'>
 <img src="images/2018032403/scan1.png">
-<figcaption><b>上圖：治療前</b></figcaption>
+<figcaption><b>上圖：服用前</b></figcaption>
 </figure>
 
 <br/>
 
 <figure class='thkLetrImg'>
 <img src="images/2018032403/scan2.png">
-<figcaption><b>上圖：治療后</b></figcaption>
+<figcaption><b>上圖：服用后</b></figcaption>
 </figure>
 
 <br/>
 
 <figure class='thkLetrImg'>
 <img src="images/2018032403/scan3.png">
-<figcaption><b>上圖：治療前</b></figcaption>
+<figcaption><b>上圖：服用前</b></figcaption>
 </figure>
 
 <br/>
 
 <figure class='thkLetrImg'>
 <img src="images/2018032403/scan4.png">
-<figcaption><b>上圖：治療后</b></figcaption>
+<figcaption><b>上圖：服用后</b></figcaption>
 </figure>
 
 <img class='thkLetrImg' src="images/2018032403/scan_7month.jpg">

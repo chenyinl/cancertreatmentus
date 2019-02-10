@@ -9,13 +9,13 @@ printHeader();
 
 <div id="main">
 <div id="content_large">
-<h2>抗癌藥比較</h2>
+<h2>抗癌比較</h2>
 
-<div class="special">美國中,晚期抗癌藥和廖博士研發(Allesgen)抗癌藥的比較
+<div class="special">美國中,晚期抗癌藥和廖博士研發的 Allesgen 比較
 <br/>Third & Terminal Stage of Anti-Cancer Drugs Comparison</div><br/>
 <table border cellpadding="2">
     <tr>
-    <th>薬名<br/>Name</th>
+    <th>名<br/>Name</th>
     <th class="secondCol">Allesgen<br/>(廖博士研發)</th>
     <th>Tagrisso<br/> (Cycares)<br/>泰瑞沙</th>
     <th>Ibrance<br/>(Palbociclib)<br/>帕博西尼</th>
@@ -39,7 +39,7 @@ printHeader();
         <td align='center'>$$8000/Bottle/Month<br/>$100000/Year
     <tr>
         <th>用途及成功率<br/>Diseases & CR</th>
-        <td align='center'>治療任何癌症 
+        <td align='center'>任何癌症 
         <br/>成功率: 52% 腫瘤消失 
         <br/>37% 延長生命
 <br/>Most types of cancers 
@@ -59,7 +59,7 @@ CR: ≤10%</td>
     </tr>
     <tr>
         <th>製造商<br/>Manufacture</th>
-        <td align='center'>Oeyama-Moto (大山本製藥公司)</td>
+        <td align='center'>Oeyama-Moto (大山本)</td>
         <td align='center'>Astra-Zeneca (阿斯利康藥廠)</td>
         <td align='center'>Pfizer (輝瑞藥廠)</td>
         <td align='center'>Merck (默克藥廠)</td>

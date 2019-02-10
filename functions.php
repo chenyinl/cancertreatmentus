@@ -65,7 +65,7 @@ function printBanner(){
 </div>
 
 <div class="navdiv">
-<a href="compare.php">抗癌藥比較</a><br/>
+<a href="compare.php">抗癌產品比較</a><br/>
 <a class="smallEng" href="compare.php">Comparsion</a>
 </div>
 <div class="navdiv">

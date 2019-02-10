@@ -9,26 +9,26 @@
 <h3 style="color:black">目前癌友的最好產品之一</h3>
 <p>「Allesgen」是用九種不同的植物及果實高度濃縮提煉而成，是廖學時博士和其九位醫師團隊花了十餘年的時間研發出來的天然酵素群。它不只增強身體的免疫系統，且能摧毀癌細胞，而沒有副作用，是目前癌友們的最好產品之一。可用於數十種癌症：肺癌、肝癌、乳癌、腸癌、胃癌、胰臟癌、腎臟癌、鼻咽癌、甲狀腺癌、卵巢癌、子宮頸癌、陰道癌、子宮體癌、膀胱癌、腦癌、攝護腺癌、皮膚黑色素癌、血癌及淋巴癌等。僅舉幾例如下：
 
-<!--<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" alt="癌症末期 全身擴散 治療三個月後" width="550"  /><figcaption class="wp-caption-text">癌症末期 全身擴散 治療三個月後</figcaption>--></p>
+<!--<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancer3Months.jpg" alt="癌症末期 全身擴散 三個月後" width="550"  /><figcaption class="wp-caption-text">癌症末期 全身擴散 服用三個月後</figcaption>--></p>
 
-<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancerXray.jpg" alt="肺癌末期病人吃藥治療前4/21/2014 肺癌末期病人吃藥治療後 6/7/2014" width="550"  /><figcaption class="wp-caption-text">肺癌末期病人吃藥治療前4/21/2014 肺癌末期病人吃藥治療後 6/7/2014</figcaption></p>
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/lungCancerXray.jpg" alt="肺癌末期病人服用前4/21/2014 肺癌末期病人服用後 6/7/2014" width="550"  /><figcaption class="wp-caption-text">肺癌末期病人服用前4/21/2014 肺癌末期病人服用後 6/7/2014</figcaption></p>
 
-<br/><img class="size-medium wp-image-8207937" src="images/CTScan/liverCancer.jpg" alt="肝癌，肺和骨轉移。兩個月，三個月，七個月的治療比較。7個月治療腫瘤液化消失。" width="450" /><figcaption class="wp-caption-text">癌肝癌，肺和骨轉移。兩個月，三個月，七個月的治療比較。7個月治療腫瘤液化消失。</figcaption></p>
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/liverCancer.jpg" alt="肝癌，肺和骨轉移。兩個月，三個月，七個月的服用比較。7個月服用腫瘤液化消失。" width="450" /><figcaption class="wp-caption-text">癌肝癌，肺和骨轉移。兩個月，三個月，七個月的服用比較。7個月服用腫瘤液化消失。</figcaption></p>
 
-<br/><img class="size-medium wp-image-8207937" src="images/CTScan/GallbalderCancer.jpg" alt="膽囊癌， 肺及肺轉移。 治療前後。" width="550" /><figcaption class="wp-caption-text">膽囊癌， 肺及肺轉移。 治療前後。治療前5-6cm，治療後癌消失。（廖學時醫學博士提供）</figcaption></p>
+<br/><img class="size-medium wp-image-8207937" src="images/CTScan/GallbalderCancer.jpg" alt="膽囊癌， 肺及肺轉移。 服用前後。" width="550" /><figcaption class="wp-caption-text">膽囊癌， 肺及肺轉移。 服用前後。服用前5-6cm，服用後癌消失。（廖學時醫學博士提供）</figcaption></p>
 
 <h3 style="color:black">肺癌腫瘤不見了</h3>
-<p>王先生是一個美國大學裡的生化學教授，有一天，王先生住在大陸的父親突然打電話來說在醫院裡，他的肺臟長了一個七公分的腫瘤，是惡性的肺癌，他不想讓王先生擔心，已做化療一年多了，但是癌細胞卻還在繼續長大。王先生妹妹剛好在報紙上看到廖博士有關治療癌症的新報導，於是王先生坐飛機到洛杉磯與廖博士詳談父親的病情，之後王先生決定先買兩瓶回大陸讓爸爸試試。</p>
-<p>吃了一個月後，王先生父親感覺有些改善，呼吸較為順暢，比較不會氣喘，而且食慾也變好，王先生又再買４瓶讓爸爸服用，大約吃了4個月左右。去醫院檢查，發現肺癌腫瘤已經不見了。醫生也不敢相信，王先生覺得廖醫師的新發明，將會是以後治療癌症的新趨勢，不僅無副作用，病人也不用再忍受化療或電療的痛苦。
+<p>王先生是一個美國大學裡的生化學教授，有一天，王先生住在大陸的父親突然打電話來說在醫院裡，他的肺臟長了一個七公分的腫瘤，是惡性的肺癌，他不想讓王先生擔心，已做化療一年多了，但是癌細胞卻還在繼續長大。王先生妹妹剛好在報紙上看到廖博士有關癌症的新報導，於是王先生坐飛機到洛杉磯與廖博士詳談父親的病情，之後王先生決定先買兩瓶回大陸讓爸爸試試。</p>
+<p>吃了一個月後，王先生父親感覺有些改善，呼吸較為順暢，比較不會氣喘，而且食慾也變好，王先生又再買４瓶讓爸爸服用，大約吃了4個月左右。去醫院檢查，發現肺癌腫瘤已經不見了。醫生也不敢相信，王先生覺得廖醫師的新發明，將會是以後對抗癌症的新趨勢，不僅無副作用，病人也不用再忍受化療或電療的痛苦。
 <br/><img class="size-medium wp-image-8211710" src="images/CTScan/patientB.jpg" alt="肺癌轉移，服用8個月腫瘤消失。（廖學時醫學博士提供）" width="450" height="754" /><figcaption class="wp-caption-text">肺癌轉移，服用8個月腫瘤消失。（廖學時醫學博士提供）</figcaption></p>
 <h3 style="color:black">甲狀腺癌末期</h3>
 <p>「我姓陳，已經是甲狀腺癌末期，在中國治療了兩三年，癌細胞還是繼續擴散。來到美國後，偶然在報紙上看到癌症權威廖醫師的廣告，跟太太討論後，決定帶著病歷拜訪廖醫師。在廖醫師的細心幫助下，服用他發明的酵素７個月時間，醫院檢查已無發現任何癌細胞了，我的甲狀腺癌已全好了，血液檢查及CT SCAN 檢查都正常。對於新移民到美國的我們，根本沒有保險，而且去醫院的醫療費用都非常昂貴，很高興遇到廖醫師並服用他的產品，能使我在短短的7個月之內痊癒，幫我解決長期甲狀腺癌的困擾與恐慌。最重要是，沒有什麼副作用，非常安全可靠。」</p>
 <h3 style="color:black">醫院放棄治療他</h3>
 <p>Sally爸爸一年半前被診斷出肝癌末期，去了City of Hope醫療中心檢查，肝癌大小是15x10x15公分，醫院及醫師都放棄治療他。後來把他送去USC癌症中心，做了一次化療，卻因為細菌感染住進加護病房一個多月，差點死掉，UCLA也不願意治療他。</p>
-<p>後來朋友告訴Sally癌症權威廖博士有種產品可以幫他爸爸，Sally沒有辦法決定親自去找廖醫師，跟他買了3瓶產品，一天吃4顆。吃了一個多月後，Sally爸爸的黃疸已經消失了，骨頭、脊椎、肺部的轉移經過四～五個月的治療，也慢慢減輕好轉了。</p>
+<p>後來朋友告訴Sally癌症權威廖博士有種產品可以幫他爸爸，Sally沒有辦法決定親自去找廖醫師，跟他買了3瓶產品，一天吃4顆。吃了一個多月後，Sally爸爸的黃疸已經消失了，骨頭、脊椎、肺部的轉移經過四～五個月的Allesgen，也慢慢減輕好轉了。</p>
 <p>「我們很驚訝CT和PET SCAN報告出來的結果，又繼續吃了三個多月的產品，我爸爸的肝癌已經液化了，然後到USC癌症中心把完全液化的肝癌吸出來，已經完全看不到任何的癌細胞了，他的USC醫生嚇了一跳，不敢相信我爸爸居然還活著，而且病居然還完全好了。」</p>
-<figure id="attachment_8207939"  class="wp-caption aligncenter"><img class="size-medium wp-image-8207939" src="images/CTScan/patientA.png" alt="肝癌轉移，7個月治療腫瘤液化消失。（廖學時醫學博士提供）" width="450" height="545" /><figcaption class="wp-caption-text">肝癌轉移，服用7個月腫瘤液化消失。（廖學時醫學博士提供）</figcaption></figure>
-<p>醫生說這是奇蹟，不停的問Sally爸爸到底做了甚麼治療，Sally跟他解釋產品的功效，他雖然沒聽說過也不完全相信，但還是很高興Sally爸爸身體已完全康復。</p>
+<figure id="attachment_8207939"  class="wp-caption aligncenter"><img class="size-medium wp-image-8207939" src="images/CTScan/patientA.png" alt="肝癌轉移，7個月服用腫瘤液化消失。（廖學時醫學博士提供）" width="450" height="545" /><figcaption class="wp-caption-text">肝癌轉移，服用7個月腫瘤液化消失。（廖學時醫學博士提供）</figcaption></figure>
+<p>醫生說這是奇蹟，不停的問Sally爸爸到底做了甚麼，Sally跟他解釋產品的功效，他雖然沒聽說過也不完全相信，但還是很高興Sally爸爸身體已完全康復。</p>
 <h3 style="color:black">「我居然還能活下去」</h3>
 <p>洛杉磯的曾太太發現得了卵巢癌至今已經兩年多了，做了無數次的化療及電療，之後又復發。有一天，曾太太的先生在報上看到廖醫師發明的Allesgen產品，決定去找廖醫師談談。當天談了約40分鐘，看到很多癌症末期病人成功的例子，決定先買5瓶。</p>
 <p>三個月後，曾太太去醫院照了CT SCAN，發現擴散到卵巢及骨頭的癌細胞已經減小和變少了。後來繼續吃了約6瓶，再去檢查，沒想到已經完全看不到任何癌細胞了。曾太太的醫生也非常驚訝，因為之前他告訴曾太太，她的病已經沒辦法救了！沒想到服用6～7個月，居然讓曾太太能夠繼續活下去, 且病也好了。</p>
@@ -48,7 +48,7 @@
 <h3 style="color:black">腎臟癌</h3>
 <p>2012年的一月，Andy在醫院檢查出腎臟長了腫瘤，Andy立刻動了手術把左腎切除了，同年的四月檢查發現癌細胞已經擴散到膀胱了，六月時把長在膀胱中的七顆腫瘤成功割除了，配合醫生做了六星期的BCG治療，在第六個星期醫生又發現了十二顆腫瘤，令Andy非常失望，整個治療過程是失敗的，Andy告訴醫生決定回中國去尋找其他癌症的治療方法。</p>
 <p>但是實際上Andy已經放棄希望了，整天在家裏無所事事，上網閒晃看電視看報紙打發時間，無意中在網站上看到廖醫師的產品，一查發現大家對於這個產品的反應很不錯，然後帶著過去的病歷及CT去請教廖教授並相信廖教授的新發明，決定服用這沒有副作用的產品。三個月每天吃四粒，後去照CT及PET腫瘤變小了很多，現在已經全部消失了，血液檢查癌指數從3,500下降到現在正常，非常感謝。</p>
-<br/><img class="size-medium wp-image-8207988" src="images/CTScan/patientC.jpg" alt="肺癌治療前7-8一cm，服用3個月縮小到3cm。（廖學時醫學博士提供）" width="450" height="217" /><br/>肺癌治療前7-8cm，服用3個月縮小到3cm。（廖學時醫學博士提供）
+<br/><img class="size-medium wp-image-8207988" src="images/CTScan/patientC.jpg" alt="肺癌 7-8一cm，服用3個月縮小到3cm。（廖學時醫學博士提供）" width="450" height="217" /><br/>肺癌7-8cm，服用3個月縮小到3cm。（廖學時醫學博士提供）
 <br/><figure><img class="size-medium wp-image-8207994" src="images/CTScan/patientE.jpg" alt="前列腺癌轉移，服用4個月癌消失。（廖學時醫學博士提供）" width="450" height="242" /><figcaption class="wp-caption-text">前列腺癌轉移，服用4個月癌消失。（廖學時醫學博士提供）</figcaption></figure>
 
 <p>您有任何問題或需要購買，請聯繫廖博士!</p>

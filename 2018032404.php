@@ -11,12 +11,12 @@
 
 <figure class='thkLetrImg'>
 <img src="images/2018032404/scan2.png">
-<figcaption><b>上圖：服用7個月后癌消失<br/> After 7 months Allesgen treatment: No bone lession</b></figcaption>
+<figcaption><b>上圖：服用7個月后癌消失<br/> After 7 months Allesgen: No bone lession</b></figcaption>
 </figure>
 
 <br/>
 
-<p>肺癌擴散患者從2012年2月開始服用經過6個月治療，肺癌全部消失</p>
+<p>肺癌擴散患者從2012年2月開始服用經過6個月，肺癌全部消失</p>
 
 <figure class='thkLetrImg'>
 	<img src="images/2018032404/scan3.png">

@@ -11,7 +11,7 @@ printHeader();
 <div id="content_large">
 <h2><span class='question'>常見問題</span></h2>
 <p>
-<span class="question">1.廖博士OEYAMA MOTO公司的抗癌allesgen在哪裏可以買到， 有經銷商嗎？需要醫生處方嗎？</span>
+<span class="question">1.廖博士OEYAMA MOTO公司的抗癌 Allesgen 在哪裏可以買到， 有經銷商嗎？需要醫生處方嗎？</span>
 <span class='answer'>
 <br/>A: 廖博士的抗癌Allesgen在美國洛杉磯，大山本癌症中心才有賣， 不在洛杉磯，或海外的病人要先聯絡他們，用匯款方式購買
 <br/>B: 無代理商
@@ -38,7 +38,7 @@ printHeader();
 <br/>
 
 <p>
-<span class="question">3. 廖博士的allesgen有無副作用？</span>
+<span class="question">3. 廖博士的 Allesgen有無副作用？</span>
 <span class='answer'>
 <br/>Allesgen無副作用，比一般抗癌藥好很多，而且便宜10倍
 </span>
@@ -49,7 +49,7 @@ printHeader();
 <p>
 <span class="question">4.爲何比起采用放射線，化療或一般療法，更推薦用Allesgen？</span>
 <span class='answer'>
-<br/>有接受過放，化療的病人表示， 毒性太大并且療效太低或根本沒有療效。 而一般的治療也無法起作用（無法讓腫瘤變小），而且副作用很大，價格貴allesgen近10倍
+<br/>有接受過放，化療的病人表示， 毒性太大并且療效太低或根本沒有療效。 而一般的治療也無法起作用（無法讓腫瘤變小），而且副作用很大，價格貴 Allesgen 近10倍
 </span>
 </p>
 <hr/>
@@ -58,7 +58,7 @@ printHeader();
 <p>
 <span class="question">5. 那Allesgen優勢在哪裏？</span>
 <span class='answer'>
-<br/>一般的標靶藥物毒性及副作用太强，而Allesgen無副作用，成功率高很多，即時末期化療，電療無效，或不相信放，化療的病人，服用allesgen幾個月后也可以康復
+<br/>一般的標靶藥物毒性及副作用太强，而 Allesgen 無副作用，成功率高很多，即時末期化療，電療無效，或不相信放，化療的病人，服用 Allesgen 幾個月后也可以康復
 </span>
 </p>
 <hr/>
@@ -67,7 +67,7 @@ printHeader();
 <p>
 <span class="question">6. 網上看到Allesgen的抗癌功能如何？</span>
 <span class='answer'>
-<br/>Allesgen 是很有效，好多晚期的病人服用幾個月后得到明顯好轉甚至完全康復。也有病人長癌後來擴散至骨頭，甚至骨頭斷掉， 才接受治療，服用無副作用的Allesgen， 慢慢好起來
+<br/>Allesgen 是很有效，好多晚期的病人服用幾個月后得到明顯好轉甚至完全康復。也有病人長癌後來擴散至骨頭，甚至骨頭斷掉， 才接受治療，服用無副作用的 Allesgen， 慢慢好起來
 </span>
 </p>
 <hr/>
@@ -86,7 +86,7 @@ printHeader();
 <p>
 <span class="question">8. 病人服用Allesgen時間要多久？</span>
 <span class='answer'>
-<br/>病人服用Allesgen后，每一個半月抽血檢查癌指數下降多少，每三個月做CT掃描和PET掃描一次，觀察癌腫瘤變小多少， 等到腫瘤消失和癌指數回復正常以後，再服用一到一個半個月穩定后即可停止服用（因爲癌細胞太小，小過2mm用CT及PET掃描不出來，所以要多服用一段時間）
+<br/>病人服用 Allesgen 后，每一個半月抽血檢查癌指數下降多少，每三個月做CT掃描和PET掃描一次，觀察癌腫瘤變小多少， 等到腫瘤消失和癌指數回復正常以後，再服用一到一個半個月穩定后即可停止服用（因爲癌細胞太小，小過2mm用CT及PET掃描不出來，所以要多服用一段時間）
 </span>
 </p>
 <hr/>
